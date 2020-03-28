@@ -1,0 +1,18 @@
+html {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.opening-section {
+  background-image: url("architecture-1867187_1280.jpg");
+  height: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.tps-head {
+  text-align: center;
+  color: white;
+}
